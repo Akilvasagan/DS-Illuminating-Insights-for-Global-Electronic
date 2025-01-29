@@ -31,11 +31,7 @@ Jupyter Notebook 📓
 SQL (e.g., MySQL or PostgreSQL) 🛢️
 Power BI or Tableau 📊
 Setup ⚙️
-# Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/DataSpark-Global-Electronics.git
-cd DataSpark-Global-Electronics
+
 # Install the necessary Python packages:
 bash
 Copy code
@@ -51,11 +47,6 @@ Commit your changes (git commit -m 'Add some feature') 📝
 Push to the branch (git push origin feature/your-feature) 🚀
 Open a pull request 🛠️
 
-# Contact Information 📬
-For any questions or feedback, please reach out to:
 
-Name: K Geethika 🧑‍💼
-Email: kgeethikaprasad@gmail.com📧
-LinkedIn: https://www.linkedin.com/in/kgeethikaprasad🔗
 
 Thank you for exploring the DataSpark project! We hope this repository provides valuable insights and tools for your own data analytics endeavors.
